@@ -1,0 +1,12 @@
+source,target,cost
+Bakery Plant A,Distribution Hub North,4
+Bakery Plant A,Distribution Hub South,6
+Bakery Plant B,Distribution Hub North,3
+Bakery Plant B,RTE Kitchen,5
+Distribution Hub North,Retail Store Central,4
+Distribution Hub North,Retail Store East,6
+Distribution Hub South,Retail Store Central,3
+Distribution Hub South,Retail Store East,2
+RTE Kitchen,Retail Store Central,3
+RTE Kitchen,Retail Store East,4
+Bakery Plant A,RTE Kitchen,2
