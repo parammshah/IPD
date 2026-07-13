@@ -61,7 +61,7 @@ function App() {
           className="mb-6 rounded-2xl border border-white/10 bg-white/5 p-6 backdrop-blur-xl"
         >
           <p className="text-xs uppercase tracking-[0.35em] text-indigo-300/90">Predictive Supply Intelligence</p>
-          <h1 className="mt-3 text-3xl font-semibold text-white md:text-5xl">AI Fast Fashion Supply Chain</h1>
+          <h1 className="mt-3 text-3xl font-semibold text-white md:text-5xl">AI Blood Bank Supply Chain</h1>
           <p className="mt-3 text-sm text-slate-300 md:text-base">Real-time Inventory Optimization & Rerouting</p>
         </motion.header>
 
